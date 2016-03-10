@@ -9,7 +9,7 @@
 	Rablo_01 <- sum(runif(Hanyadik_Jatek,0,1))		/Hanyadik_Jatek
 	Rablo_02 <- sum(runif(Hanyadik_Jatek,0.5,1.5))	/Hanyadik_Jatek
 
-	# Eloször
+	# Eloszor
 	Jatek_Kifizetese <- 0
 	Ossz_Nyeremeny   <- 0
 
