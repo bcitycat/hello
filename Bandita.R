@@ -1,5 +1,5 @@
-	#Első szakasz, melyben mindkét félkaru rablónak generálunk pár kezdeti értéket és ezek alapján árazzuk őket
-	#Jelen esetben 10 játékot generálunk, melyek [0;1] és [0.5;1.5] intervallumokon vesznek majd fel értékeket
+	#ELso szakasz, melyben mindket felkaru rablonak generalunk par kezdeti erteket es ezek alapjan arazzuk oket
+	#Jelen esetben 10 jatekot generalunk, melyek [0;1] es [0.5;1.5] intervallumokon vesznek majd fel ertekeket
 
 
 	rm(list = ls())
@@ -9,12 +9,12 @@
 	Rablo_01 <- sum(runif(Hanyadik_Jatek,0,1))		/Hanyadik_Jatek
 	Rablo_02 <- sum(runif(Hanyadik_Jatek,0.5,1.5))	/Hanyadik_Jatek
 
-	# Először
+	# Eloször
 	Jatek_Kifizetese <- 0
 	Ossz_Nyeremeny   <- 0
 
 
-	# Így frissítjük a rablók értékét:
+	# Frissitjuk a rablok ertekeit
 
 
 
