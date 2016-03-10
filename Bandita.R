@@ -10,7 +10,7 @@
 	Ossz_Nyeremeny   <- 0
 
 	# Frissitjuk a rablok ertekeit valahanyszor
-	Utolso_frissites <-10
+	Utolso_frissites <-100
 	for (hanyadik_Frissites in 1:Utolso_frissites) {
 
 		Hanyadik_Jatek <- Hanyadik_Jatek+1
